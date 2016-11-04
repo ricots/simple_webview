@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9de8485bee595c7234c0eeb9c74d1e58aa230a3b">
+        <dex dex="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\pre-dexed\debug\instant-run_e3712c58136a6942f566415cf67c02c7e9e85505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_d5227e2d43f5a7d852432e20d774bfd60063e274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_1f2025a11a1972bd484e7d8e9c3f9c3570aeb6d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_d0699cecdcfd092558190db0ff31507d1c3294d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_d0e653563999b78be0768fbe8c3fa867b7e862dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="19eaa762d63cf1dabcd0e0d82693922d6f59dbe3">
+        <dex dex="D:\mix\android\simple project\WebViewApp-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_62c769b6217c891421e1d0601768b20a2429b8b3.jar" />
+    </item>
+
+</items>
